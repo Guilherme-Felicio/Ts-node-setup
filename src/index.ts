@@ -1,1 +1,7 @@
-console.log("hello ads");
+class Person {
+  sayMayName() {
+    return "Guilherme";
+  }
+}
+
+export default Person;
